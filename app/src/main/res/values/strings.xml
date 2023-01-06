@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player_x_turn">Player X Turn</string>
+</resources>
